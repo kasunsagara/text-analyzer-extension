@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Text Analyzer",
   "version": "1.0",
-  "description": "Analyze selected text",
+  "description": "Analyze selected text instantly",
   "permissions": ["storage", "activeTab"],
   "action": {
     "default_popup": "index.html"
